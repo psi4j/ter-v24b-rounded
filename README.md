@@ -4,7 +4,7 @@ Terminus console font (v24b) patched with rounded box-drawing corners for Linux 
 
 ## Why?
 
-Standard Linux console fonts don't include the Unicode "arc" box-drawing characters (`╭╮╰╯`). Applications using rounded corners fall back to `+` characters, which looks ugly.
+Standard Linux console fonts generally don't include the Unicode "arc" box-drawing characters (`╮ ╭ ╯ ╰`). Applications using rounded corners fall back to `+` characters, which looks ugly.
 
 This font patches the Terminus v24b font to:
 
