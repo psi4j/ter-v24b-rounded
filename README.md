@@ -2,6 +2,8 @@
 
 Terminus console font (v24b) patched with rounded box-drawing corners for Linux TTY/console.
 
+![ter-v24b-rounded example using btop](btop.png)
+
 ## Why?
 
 Standard Linux console fonts generally don't include the Unicode "arc" box-drawing characters (`╮ ╭ ╯ ╰`). Applications using rounded corners fall back to `+` characters, which looks ugly.
